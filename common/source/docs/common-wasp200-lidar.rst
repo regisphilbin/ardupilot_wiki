@@ -15,7 +15,7 @@ The `Wasp200 <https://www.attolloengineering.com/wasp-200-lrf.html>`__ has a ran
 Where to Buy
 ------------
 
-- The `Attollo Engineering online store <https://www.attolloengineering.com/store/p14/WASP-200_Laser_Rangefinder.html>`__ sells the lidar directly
+- The `Attollo Engineering online store <https://attolloengineering.com/product/wasp-200-lrf/>`__ sells the lidar directly
 
 Connecting to the Autopilot
 -----------------------------------
